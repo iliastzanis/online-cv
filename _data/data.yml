@@ -35,14 +35,14 @@ sidebar:
       - idiom: German
         level: Lower
 
-    interests:
+    interests: 
+      - item: Programming Languages
+        link:
+
       - item: Football
         link:
 
       - item: Gym
-        link:
-
-      - item: 
         link:
 
 career-profile:
@@ -59,21 +59,19 @@ education:
       details: |
         Im curently an undergraduate student of Computer Science at Ionian University. The studies here last minimum 4 years. 
         Im on my 5th year and i have to finish my thesis.
+
 experiences:
-    - role: 
-      time: 
-      company: 
-      details:
+    - role: Groom
+      time: Early Summer 2018 
+      company: Ikos Resorts
+      details: Started here my first job so i can earn some extra money during the summer vacations.
+    
+    - role: Seller
+      time: Summer 2018 - Summer 2019
+      company: T-Shirtmania
+      details: After the groom job at ikos i decided to move to a sellers job because it was more fun and less stressfull. Again this was a job to help me 
+      earn my summer vacation money
       
-    - role:
-      time:
-      company:
-      details:
-        
-    - role: 
-      time: 
-      company: 
-      details:
 projects:
     title: Projects
     intro: >  
@@ -105,18 +103,18 @@ skills:
 
       - name: Java
         level: 50%
+        
+      - name: Sketch & Photoshop
+        level: 50%
+
 
       - name: C Language
         level: 80%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 95% 
 
-      - name: 
-        level: 
-
-      - name: Sketch & Photoshop
-        level: 50%
-
+      
 footer: >
+    Edited by <a href="https://github.com/iliastzanis" target="_blank" rel="nofollow">Xiaoying Riley</a>
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
