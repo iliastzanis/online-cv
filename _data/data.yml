@@ -76,46 +76,25 @@ experiences:
       details:
 projects:
     title: Projects
-    intro: >
-      Here are some projects I've made during my studies at University
+    intro: >  
+       Here are some projects I've made during my studies at University
     assignments:
-      - title: 
-        link: 
-        tagline: 
+      - title: Compilers
+        link: "https://github.com/iliastzanis/compilers1819a1" 
+        tagline: "This is a project i made for the compilers lessons"
 
-      - title: 
-        link: 
-        tagline: 
-      - title:
-        link: 
-        tagline: 
-
-      - title: 
-        link: 
-        tagline: 
-
-      - title: 
-        link: 
-        tagline: 
+      - title: Shooter Game
+        link: "https://github.com/iliastzanis/Shooter"
+        tagline: "This is a shooter game"
+      
+      - title: Super Mario Game
+        link: "https://github.com/iliastzanis/Super-Mario"
+        tagline: "This is a copy of Super Mario game"
+        
 publications:
     title: Publications
     intro: |
       I havent made any publications yet.
-    papers:
-      - title: 
-        link: 
-        authors: 
-        conference: 
-
-      - title:
-        link: 
-        authors:
-        conference: 
-
-      - title:
-        link: 
-        authors: 
-        conference:
 
 skills:
     title: Skills &amp; Proficiency
