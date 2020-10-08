@@ -64,13 +64,14 @@ experiences:
     - role: Groom
       time: Early Summer 2018 
       company: Ikos Resorts
-      details: Started here my first job so i can earn some extra money during the summer vacations.
+      details: |
+       Started here my first job so i can earn some extra money during the summer vacations.
     
     - role: Seller
       time: Summer 2018 - Summer 2019
       company: T-Shirtmania
-      details: After the groom job at ikos i decided to move to a sellers job because it was more fun and less stressfull. Again this was a job to help me 
-      earn my summer vacation money
+      details: |
+       After the groom job at ikos i decided to move to a sellers job because it was more fun and less stressfull. Again this was a job to help me earn my summer vacation money
       
 projects:
     title: Projects
