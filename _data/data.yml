@@ -15,7 +15,7 @@ sidebar:
     email: iliastzanis1@gmail.com
     phone: 6956001475
     website: #do not add http://
-    linkedin: 
+    linkedin: https://www.linkedin.com/in/ilias-tzanis/
     github: iliastzanis
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -69,13 +69,13 @@ experiences:
       time: Early Summer 2018 
       company: Ikos Resorts
       details: |
-       Started here my first job so i can earn some extra money during the summer vacations.
+       This was my very first job, i worked here as a Groom and it teached me what its like working but also helped me earn some side income. 
     
     - role: Seller
       time: Summer 2018 - Summer 2019
       company: T-Shirtmania
       details: |
-       After the groom job at ikos i decided to move to a sellers job because it was more fun and less stressfull. Again this was a job to help me earn my summer vacation money
+       After the Groom job at Ikos i decided to move to a sellers job. Again this was a job to help me earn my summer vacation money.
       
 projects:
     title: Projects
@@ -97,7 +97,8 @@ projects:
 publications:
     title: Publications
     intro: |
-      I am currently working on my thesis which is about developing a demo for a mobile crowdsensing application. The technologies i use for this demo are React-Native for front-end and AWS Amplify for back-end.
+      I am currently working on my thesis which is about developing a demo for a mobile crowdsensing application.
+      The technologies i use for this demo are React-Native for front-end and AWS Amplify for back-end.
 
 skills:
     title: Skills &amp; Proficiency
