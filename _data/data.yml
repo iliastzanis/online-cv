@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: iliastzanis1@gmail.com
-    phone: 6969696969
+    phone: 6956001475
     website: #do not add http://
     linkedin: 
     github: iliastzanis
@@ -41,6 +41,9 @@ sidebar:
 
       - item: Football
         link:
+      
+      - item: Gaming
+        link:
 
       - item: Gym
         link:
@@ -49,8 +52,9 @@ career-profile:
     title: Career Profile
     summary: |
      Hello my name is Ilias Tzanis and i am currently studying at [Department of Informatics](https://di.ionio.gr/en/).
-     During my time as a student i have worked in two different jobs. My first job was at a hotel and the second one at a tourist shop both of them in Corfu city. 
-     These were just side jobs so i can earn some extra money.
+     As a person I'm always happy, I like learning new things and always try to help others when they need to.
+     During my time as a student I have worked in many team projects as well as solo projects and I've used various programming languages and technologies.
+     Besides my studies I have worked in two different jobs, in order to get some side income. My first job was at Ikos Dasia Hotel and the second one at a tourist shop located in Corfu city. 
 
 education:
     - degree: Undergraduate Studies in Computer Science
@@ -58,7 +62,7 @@ education:
       time: 2016 - Present
       details: |
         Im curently an undergraduate student of Computer Science at Ionian University. The studies here last minimum 4 years. 
-        Im on my 5th year and i have to finish my thesis.
+        Im on my 5th year and i have to finish my thesis in order to graduate.
 
 experiences:
     - role: Groom
@@ -93,28 +97,39 @@ projects:
 publications:
     title: Publications
     intro: |
-      I havent made any publications yet.
+      I am currently working on my thesis which is about developing a demo for a mobile crowdsensing application. The technologies i use for this demo are React-Native for front-end and AWS Amplify for back-end.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
-        level: 30%
-
-      - name: Java
-        level: 50%
-        
-      - name: Sketch & Photoshop
-        level: 50%
-
-
+      - name: HTML & CSS
+        level: 80%
+      
       - name: C Language
         level: 80%
 
-      - name: HTML5 & CSS
-        level: 95% 
-
+      - name: JavaScript
+        level: 75%
       
+      - name: React Native
+        level: 75%
+      
+      - name: NodeJS
+        level: 65%
+        
+      - name: Java
+        level: 60%
+        
+      - name: Kotlin
+        level: 55%
+
+      - name: Python
+        level: 40%
+        
+      - name: Sketch & Photoshop
+        level: 40%
+
+
 footer: >
     Edited by <a href="https://github.com/iliastzanis" target="_blank" rel="nofollow">Ilias Tzanis</a>
