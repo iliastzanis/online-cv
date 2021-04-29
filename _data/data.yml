@@ -104,20 +104,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: React Native
+        level: 80%
+      
+      - name: Javascript
+        level: 80%
+
       - name: HTML & CSS
         level: 80%
       
       - name: C Language
         level: 80%
-
-      - name: JavaScript
-        level: 75%
-      
-      - name: React Native
-        level: 75%
       
       - name: NodeJS
-        level: 65%
+        level: 75%
         
       - name: Java
         level: 60%
